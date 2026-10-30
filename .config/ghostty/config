@@ -60,4 +60,5 @@ keybind = super+[=previous_tab
 keybind = ctrl+tab=unbind
 keybind = super+shift+]=unbind
 keybind = super+]=next_tab
+keybind = super+r=prompt_tab_title
 
